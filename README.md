@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+**Tags**: #CSS #Docker #Html #JavaScript #Markdown #Node #React #Redux #Tailwind #TypeScript #redux #tailwind
+
+#ReactStateManagement # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
